@@ -1,0 +1,301 @@
+﻿Year,Indicator,Value,Source,Region,Commune
+2010,population_total,9797.484,UN WPP,National,N/A
+2011,population_total,10093.623,UN WPP,National,N/A
+2012,population_total,10397.657,UN WPP,National,N/A
+2013,population_total,10708.834,UN WPP,National,N/A
+2014,population_total,11030.004,UN WPP,National,N/A
+2015,population_total,11360.681,UN WPP,National,N/A
+2016,population_total,11697.842,UN WPP,National,N/A
+2017,population_total,12039.78,UN WPP,National,N/A
+2018,population_total,12383.347,UN WPP,National,N/A
+2019,population_total,12726.755,UN WPP,National,N/A
+2020,population_total,13070.169,UN WPP,National,N/A
+2021,population_total,13413.417,UN WPP,National,N/A
+2022,population_total,13759.501,UN WPP,National,N/A
+2023,population_total,14111.034,UN WPP,National,N/A
+2010,population_male,4877.876,UN WPP,National,N/A
+2011,population_male,5028.977,UN WPP,National,N/A
+2012,population_male,5184.26,UN WPP,National,N/A
+2013,population_male,5343.394,UN WPP,National,N/A
+2014,population_male,5507.544,UN WPP,National,N/A
+2015,population_male,5676.385,UN WPP,National,N/A
+2016,population_male,5848.391,UN WPP,National,N/A
+2017,population_male,6022.609,UN WPP,National,N/A
+2018,population_male,6197.56,UN WPP,National,N/A
+2019,population_male,6372.298,UN WPP,National,N/A
+2020,population_male,6546.526,UN WPP,National,N/A
+2021,population_male,6720.676,UN WPP,National,N/A
+2022,population_male,6896.458,UN WPP,National,N/A
+2023,population_male,7074.605,UN WPP,National,N/A
+2010,population_female,4919.608,UN WPP,National,N/A
+2011,population_female,5064.646,UN WPP,National,N/A
+2012,population_female,5213.397,UN WPP,National,N/A
+2013,population_female,5365.44,UN WPP,National,N/A
+2014,population_female,5522.459,UN WPP,National,N/A
+2015,population_female,5684.296,UN WPP,National,N/A
+2016,population_female,5849.45,UN WPP,National,N/A
+2017,population_female,6017.172,UN WPP,National,N/A
+2018,population_female,6185.787,UN WPP,National,N/A
+2019,population_female,6354.457,UN WPP,National,N/A
+2020,population_female,6523.643,UN WPP,National,N/A
+2021,population_female,6692.742,UN WPP,National,N/A
+2022,population_female,6863.042,UN WPP,National,N/A
+2023,population_female,7036.429,UN WPP,National,N/A
+2010,life_expectancy,58.387,UN WPP,National,N/A
+2011,life_expectancy,58.462,UN WPP,National,N/A
+2012,life_expectancy,58.559,UN WPP,National,N/A
+2013,life_expectancy,58.863,UN WPP,National,N/A
+2014,life_expectancy,59.008,UN WPP,National,N/A
+2015,life_expectancy,59.123,UN WPP,National,N/A
+2016,life_expectancy,59.283,UN WPP,National,N/A
+2017,life_expectancy,59.528,UN WPP,National,N/A
+2018,life_expectancy,59.71,UN WPP,National,N/A
+2019,life_expectancy,59.888,UN WPP,National,N/A
+2020,life_expectancy,60.154,UN WPP,National,N/A
+2021,life_expectancy,59.61,UN WPP,National,N/A
+2022,life_expectancy,60.475,UN WPP,National,N/A
+2023,life_expectancy,60.774,UN WPP,National,N/A
+2010,infant_mortality,69.389,UN WPP,National,N/A
+2011,infant_mortality,68.007,UN WPP,National,N/A
+2012,infant_mortality,66.681,UN WPP,National,N/A
+2013,infant_mortality,65.387,UN WPP,National,N/A
+2014,infant_mortality,64.127,UN WPP,National,N/A
+2015,infant_mortality,62.886,UN WPP,National,N/A
+2016,infant_mortality,61.581,UN WPP,National,N/A
+2017,infant_mortality,60.279,UN WPP,National,N/A
+2018,infant_mortality,58.982,UN WPP,National,N/A
+2019,infant_mortality,57.597,UN WPP,National,N/A
+2020,infant_mortality,56.237,UN WPP,National,N/A
+2021,infant_mortality,54.917,UN WPP,National,N/A
+2022,infant_mortality,53.654,UN WPP,National,N/A
+2023,infant_mortality,52.318,UN WPP,National,N/A
+2010,fertility_rate,5.452,UN WPP,National,N/A
+2011,fertility_rate,5.436,UN WPP,National,N/A
+2012,fertility_rate,5.429,UN WPP,National,N/A
+2013,fertility_rate,5.41,UN WPP,National,N/A
+2014,fertility_rate,5.374,UN WPP,National,N/A
+2015,fertility_rate,5.32,UN WPP,National,N/A
+2016,fertility_rate,5.254,UN WPP,National,N/A
+2017,fertility_rate,5.155,UN WPP,National,N/A
+2018,fertility_rate,5.031,UN WPP,National,N/A
+2019,fertility_rate,4.9,UN WPP,National,N/A
+2020,fertility_rate,4.795,UN WPP,National,N/A
+2021,fertility_rate,4.707,UN WPP,National,N/A
+2022,fertility_rate,4.634,UN WPP,National,N/A
+2023,fertility_rate,4.556,UN WPP,National,N/A
+2020,population_by_commune,335320.88,WorldPop,Alibori,Banikoara
+2020,population_by_commune,146588.28,WorldPop,Alibori,Gogounou
+2020,population_by_commune,263232.44,WorldPop,Alibori,Kandi
+2020,population_by_commune,106087.84,WorldPop,Alibori,Karimama
+2020,population_by_commune,232495.03,WorldPop,Alibori,Malanville
+2020,population_by_commune,133731.45,WorldPop,Alibori,Ségbana
+2020,population_by_commune,85738.36,WorldPop,Atakora,Boukoumbé
+2020,population_by_commune,78379.35,WorldPop,Atakora,Cobly
+2020,population_by_commune,147469.19,WorldPop,Atakora,Kouandé
+2020,population_by_commune,130052.65,WorldPop,Atakora,Kérou
+2020,population_by_commune,145412.9,WorldPop,Atakora,Matéri
+2020,population_by_commune,122218.65,WorldPop,Atakora,Natitingou
+2020,population_by_commune,97234.164,WorldPop,Atakora,Péhunco
+2020,population_by_commune,102903.266,WorldPop,Atakora,Tanguiéta
+2020,population_by_commune,123843.086,WorldPop,Atakora,Toucountouna
+2020,population_by_commune,1031102.9,WorldPop,Atlantique,Abomey-Calavi
+2020,population_by_commune,153510.89,WorldPop,Atlantique,Allada
+2020,population_by_commune,98146.195,WorldPop,Atlantique,Kpomassè
+2020,population_by_commune,276356.12,WorldPop,Atlantique,Ouidah
+2020,population_by_commune,80479.14,WorldPop,Atlantique,Sô-Ava
+2020,population_by_commune,66015.59,WorldPop,Atlantique,Toffo
+2020,population_by_commune,50098.54,WorldPop,Atlantique,Tori-Bossito
+2020,population_by_commune,134477.27,WorldPop,Atlantique,Zè
+2020,population_by_commune,165159.7,WorldPop,Borgou,Bembèrèkè
+2020,population_by_commune,239215.66,WorldPop,Borgou,Kalalé
+2020,population_by_commune,156929.16,WorldPop,Borgou,N'Dali
+2020,population_by_commune,200936.16,WorldPop,Borgou,Nikki
+2020,population_by_commune,346058.44,WorldPop,Borgou,Parakou
+2020,population_by_commune,106771.12,WorldPop,Borgou,Pèrèrè
+2020,population_by_commune,119934.016,WorldPop,Borgou,Sinendé
+2020,population_by_commune,355275.22,WorldPop,Borgou,Tchaourou
+2020,population_by_commune,126982.64,WorldPop,Collines,Bantè
+2020,population_by_commune,125166.77,WorldPop,Collines,Dassa-Zoumè
+2020,population_by_commune,148480.25,WorldPop,Collines,Glazoué
+2020,population_by_commune,175992.5,WorldPop,Collines,Ouèssè
+2020,population_by_commune,179703.22,WorldPop,Collines,Savalou
+2020,population_by_commune,102216.55,WorldPop,Collines,Savè
+2020,population_by_commune,199733.55,WorldPop,Donga,Bassila
+2020,population_by_commune,82854.77,WorldPop,Donga,Copargo
+2020,population_by_commune,274101.53,WorldPop,Donga,Djougou Rural
+2020,population_by_commune,50858.617,WorldPop,Donga,Djougou Urbain
+2020,population_by_commune,104292.33,WorldPop,Donga,Ouaké
+2020,population_by_commune,208373.73,WorldPop,Kouffo,Aplahoué
+2020,population_by_commune,177792.83,WorldPop,Kouffo,Djakotomey
+2020,population_by_commune,142653.39,WorldPop,Kouffo,Dogbo
+2020,population_by_commune,138139.6,WorldPop,Kouffo,Klouékanmè
+2020,population_by_commune,147314.03,WorldPop,Kouffo,Lalo
+2020,population_by_commune,97130.79,WorldPop,Kouffo,Toviklin
+2020,population_by_commune,805941.8,WorldPop,Littoral,Cotonou
+2020,population_by_commune,65282.723,WorldPop,Mono,Athiémè
+2020,population_by_commune,103190.875,WorldPop,Mono,Bopa
+2020,population_by_commune,90662.9,WorldPop,Mono,Comè
+2020,population_by_commune,78647.805,WorldPop,Mono,Grand-Popo
+2020,population_by_commune,124027.78,WorldPop,Mono,Houéyogbé
+2020,population_by_commune,144242.23,WorldPop,Mono,Lokossa
+2020,population_by_commune,175875.45,WorldPop,Ouémé,Adjarra
+2020,population_by_commune,82040.9,WorldPop,Ouémé,Adjohoun
+2020,population_by_commune,45512.664,WorldPop,Ouémé,Aguégués
+2020,population_by_commune,91383.98,WorldPop,Ouémé,Akpro-Missérété
+2020,population_by_commune,141216.6,WorldPop,Ouémé,Avrankou
+2020,population_by_commune,46059.805,WorldPop,Ouémé,Bonou
+2020,population_by_commune,99660.805,WorldPop,Ouémé,Dangbo
+2020,population_by_commune,308080.3,WorldPop,Ouémé,Porto-Novo
+2020,population_by_commune,425402.03,WorldPop,Ouémé,Sèmè-Kpodji
+2020,population_by_commune,137285.83,WorldPop,Plateau,Adja-Ouèrè
+2020,population_by_commune,158760.0,WorldPop,Plateau,Ifangni
+2020,population_by_commune,207545.95,WorldPop,Plateau,Kétou
+2020,population_by_commune,149879.62,WorldPop,Plateau,Pobè
+2020,population_by_commune,146108.55,WorldPop,Plateau,Sakété
+2020,population_by_commune,89485.54,WorldPop,Zou,Abomey
+2020,population_by_commune,99963.85,WorldPop,Zou,Agbangnizoun
+2020,population_by_commune,230550.89,WorldPop,Zou,Bohicon
+2020,population_by_commune,57376.117,WorldPop,Zou,Covè
+2020,population_by_commune,156356.61,WorldPop,Zou,Djidja
+2020,population_by_commune,82063.45,WorldPop,Zou,Ouinhi
+2020,population_by_commune,156785.12,WorldPop,Zou,Za-Kpota
+2020,population_by_commune,78778.17,WorldPop,Zou,Zagnanado
+2020,population_by_commune,131070.734,WorldPop,Zou,Zogbodomey
+2010,gdp,9543000000.0,IMF WEO,National,N/A
+2011,gdp,10691000000.0,IMF WEO,National,N/A
+2012,gdp,11148000000.0,IMF WEO,National,N/A
+2013,gdp,12518000000.0,IMF WEO,National,N/A
+2014,gdp,13288000000.0,IMF WEO,National,N/A
+2015,gdp,11389000000.0,IMF WEO,National,N/A
+2016,gdp,11818000000.0,IMF WEO,National,N/A
+2017,gdp,12697000000.0,IMF WEO,National,N/A
+2018,gdp,14257000000.0,IMF WEO,National,N/A
+2019,gdp,14392000000.0,IMF WEO,National,N/A
+2020,gdp,15674000000.0,IMF WEO,National,N/A
+2021,gdp,17699000000.0,IMF WEO,National,N/A
+2022,gdp,17439000000.0,IMF WEO,National,N/A
+2023,gdp,19679000000.0,IMF WEO,National,N/A
+2010,population,9446000.0,IMF WEO,National,N/A
+2011,population,9726000.0,IMF WEO,National,N/A
+2012,population,10014000.0,IMF WEO,National,N/A
+2013,population,10309000.0,IMF WEO,National,N/A
+2014,population,10615000.0,IMF WEO,National,N/A
+2015,population,10933000.0,IMF WEO,National,N/A
+2016,population,11260000.0,IMF WEO,National,N/A
+2017,population,11597000.0,IMF WEO,National,N/A
+2018,population,11941000.0,IMF WEO,National,N/A
+2019,population,12290000.0,IMF WEO,National,N/A
+2020,population,12643000.0,IMF WEO,National,N/A
+2021,population,12997000.0,IMF WEO,National,N/A
+2022,population,13353000.0,IMF WEO,National,N/A
+2023,population,13732000.0,IMF WEO,National,N/A
+2010,gdp_per_capita,1010.2688968875715,IMF WEO,National,N/A
+2011,gdp_per_capita,1099.218589348139,IMF WEO,National,N/A
+2012,gdp_per_capita,1113.2414619532653,IMF WEO,National,N/A
+2013,gdp_per_capita,1214.2787855272093,IMF WEO,National,N/A
+2014,gdp_per_capita,1251.8134715025906,IMF WEO,National,N/A
+2015,gdp_per_capita,1041.708588676484,IMF WEO,National,N/A
+2016,gdp_per_capita,1049.5559502664298,IMF WEO,National,N/A
+2017,gdp_per_capita,1094.8521169267915,IMF WEO,National,N/A
+2018,gdp_per_capita,1193.953605225693,IMF WEO,National,N/A
+2019,gdp_per_capita,1171.033360455655,IMF WEO,National,N/A
+2020,gdp_per_capita,1239.7374040971288,IMF WEO,National,N/A
+2021,gdp_per_capita,1361.7757944140956,IMF WEO,National,N/A
+2022,gdp_per_capita,1305.9986519883173,IMF WEO,National,N/A
+2023,gdp_per_capita,1433.0760267987184,IMF WEO,National,N/A
+2010,merchandise_exports_million_usd,1282.0,UNCTAD,National,N/A
+2015,merchandise_exports_million_usd,1682.0,UNCTAD,National,N/A
+2023,merchandise_exports_million_usd,4050.0,UNCTAD,National,N/A
+2010,merchandise_imports_million_usd,2054.0,UNCTAD,National,N/A
+2015,merchandise_imports_million_usd,2561.0,UNCTAD,National,N/A
+2023,merchandise_imports_million_usd,5252.0,UNCTAD,National,N/A
+2010,gdp_million_usd,9535.0,UNCTAD,National,N/A
+2015,gdp_million_usd,11388.0,UNCTAD,National,N/A
+2023,gdp_million_usd,19673.0,UNCTAD,National,N/A
+2010,gdp_per_capita_usd,973.0,UNCTAD,National,N/A
+2015,gdp_per_capita_usd,1002.0,UNCTAD,National,N/A
+2023,gdp_per_capita_usd,1394.0,UNCTAD,National,N/A
+2010,real_gdp_growth_percent,2.11,UNCTAD,National,N/A
+2015,real_gdp_growth_percent,1.78,UNCTAD,National,N/A
+2023,real_gdp_growth_percent,6.35,UNCTAD,National,N/A
+2010,Human Development Index (value),0.485,UNDP HDR,National,N/A
+2011,Human Development Index (value),0.49,UNDP HDR,National,N/A
+2012,Human Development Index (value),0.497,UNDP HDR,National,N/A
+2013,Human Development Index (value),0.506,UNDP HDR,National,N/A
+2014,Human Development Index (value),0.509,UNDP HDR,National,N/A
+2015,Human Development Index (value),0.511,UNDP HDR,National,N/A
+2016,Human Development Index (value),0.51,UNDP HDR,National,N/A
+2017,Human Development Index (value),0.507,UNDP HDR,National,N/A
+2018,Human Development Index (value),0.507,UNDP HDR,National,N/A
+2019,Human Development Index (value),0.507,UNDP HDR,National,N/A
+2020,Human Development Index (value),0.504,UNDP HDR,National,N/A
+2021,Human Development Index (value),0.506,UNDP HDR,National,N/A
+2022,Human Development Index (value),0.512,UNDP HDR,National,N/A
+2023,Human Development Index (value),0.515,UNDP HDR,National,N/A
+2017,care_seeking_rate,0.68,WHO GHO,National,N/A
+2017,care_seeking_rate,36.78,WHO GHO,National,N/A
+2017,care_seeking_rate,15.79,WHO GHO,National,N/A
+2017,care_seeking_rate,58.3,WHO GHO,National,N/A
+2017,care_seeking_rate,63.35,WHO GHO,National,N/A
+2014,care_seeking_rate,1.34,WHO GHO,National,N/A
+2014,care_seeking_rate,1.24,WHO GHO,National,N/A
+2017,care_seeking_rate,0.43,WHO GHO,National,N/A
+2017,care_seeking_rate,0.2,WHO GHO,National,N/A
+2014,care_seeking_rate,18.61,WHO GHO,National,N/A
+2017,care_seeking_rate,39.64,WHO GHO,National,N/A
+2014,care_seeking_rate,63.26,WHO GHO,National,N/A
+2017,care_seeking_rate,46.25,WHO GHO,National,N/A
+2014,care_seeking_rate,48.8,WHO GHO,National,N/A
+2017,care_seeking_rate,31.9,WHO GHO,National,N/A
+2017,care_seeking_rate,63.22,WHO GHO,National,N/A
+2014,care_seeking_rate,19.31,WHO GHO,National,N/A
+2017,care_seeking_rate,1.83,WHO GHO,National,N/A
+2017,care_seeking_rate,31.88,WHO GHO,National,N/A
+2017,care_seeking_rate,41.7,WHO GHO,National,N/A
+2014,care_seeking_rate,1.46,WHO GHO,National,N/A
+2017,care_seeking_rate,36.65,WHO GHO,National,N/A
+2014,care_seeking_rate,79.46,WHO GHO,National,N/A
+2017,care_seeking_rate,24.32,WHO GHO,National,N/A
+2014,care_seeking_rate,13.83,WHO GHO,National,N/A
+2017,care_seeking_rate,59.46,WHO GHO,National,N/A
+2017,care_seeking_rate,68.12,WHO GHO,National,N/A
+2017,care_seeking_rate,53.75,WHO GHO,National,N/A
+2017,care_seeking_rate,28.26,WHO GHO,National,N/A
+2014,care_seeking_rate,36.12,WHO GHO,National,N/A
+2017,care_seeking_rate,81.66,WHO GHO,National,N/A
+2014,care_seeking_rate,16.08,WHO GHO,National,N/A
+2014,care_seeking_rate,0.47,WHO GHO,National,N/A
+2017,care_seeking_rate,15.83,WHO GHO,National,N/A
+2010,female_labor_rate,69.1,Gender WB,National,N/A
+2011,female_labor_rate,69.588,Gender WB,National,N/A
+2012,female_labor_rate,70.202,Gender WB,National,N/A
+2013,female_labor_rate,70.81,Gender WB,National,N/A
+2014,female_labor_rate,71.412,Gender WB,National,N/A
+2015,female_labor_rate,72.007,Gender WB,National,N/A
+2016,female_labor_rate,72.597,Gender WB,National,N/A
+2017,female_labor_rate,73.179,Gender WB,National,N/A
+2018,female_labor_rate,73.755,Gender WB,National,N/A
+2019,female_labor_rate,74.325,Gender WB,National,N/A
+2020,female_labor_rate,73.677,Gender WB,National,N/A
+2021,female_labor_rate,74.791,Gender WB,National,N/A
+2022,female_labor_rate,74.264,Gender WB,National,N/A
+2023,female_labor_rate,74.183,Gender WB,National,N/A
+2010,fifa_ranking,119.0,FIFA,National,N/A
+2011,fifa_ranking,124.0,FIFA,National,N/A
+2012,fifa_ranking,77.0,FIFA,National,N/A
+2013,fifa_ranking,99.0,FIFA,National,N/A
+2014,fifa_ranking,89.0,FIFA,National,N/A
+2015,fifa_ranking,88.0,FIFA,National,N/A
+2016,fifa_ranking,66.0,FIFA,National,N/A
+2017,fifa_ranking,93.0,FIFA,National,N/A
+2018,fifa_ranking,96.0,FIFA,National,N/A
+2019,fifa_ranking,84.0,FIFA,National,N/A
+2020,fifa_ranking,84.0,FIFA,National,N/A
+2021,fifa_ranking,83.0,FIFA,National,N/A
+2022,fifa_ranking,85.0,FIFA,National,N/A
+2023,fifa_ranking,94.0,FIFA,National,N/A
+2012,olympic_athletes,5.0,IOC,National,N/A
+2016,olympic_athletes,6.0,IOC,National,N/A
+2020,olympic_athletes,7.0,IOC,National,N/A
+2010,afcon_matches_played,3.0,CAF,National,N/A
+2019,afcon_matches_played,5.0,CAF,National,N/A
